@@ -1,0 +1,53 @@
+{
+  "title": "Augsburg 86150",
+  "day": 0,
+  "weekday": null,
+  "cast": [
+    "Herbert Gruber",
+    "Gisela Wimmer",
+    "Carmen Gruber",
+    "Frau Schmidt",
+    "Viktor Falk",
+    "Hausmeister Brunner"
+  ],
+  "public_facts": [],
+  "open_threads": [
+    {
+      "q": "Wohin verschwindet das Firmengeld?",
+      "status": "open"
+    },
+    {
+      "q": "Was ist mit der Kunden-Datenbank passiert?",
+      "status": "open"
+    }
+  ],
+  "secret_exposure": {
+    "Herbert Gruber": {
+      "near_misses": 0,
+      "revealed": false
+    },
+    "Gisela Wimmer": {
+      "near_misses": 0,
+      "revealed": false
+    },
+    "Carmen Gruber": {
+      "near_misses": 0,
+      "revealed": false
+    },
+    "Frau Schmidt": {
+      "near_misses": 0,
+      "revealed": false
+    },
+    "Viktor Falk": {
+      "near_misses": 0,
+      "revealed": false
+    },
+    "Hausmeister Brunner": {
+      "near_misses": 0,
+      "revealed": false
+    }
+  },
+  "momentum": 0.5,
+  "planned_beats": [],
+  "day_focus": ""
+}

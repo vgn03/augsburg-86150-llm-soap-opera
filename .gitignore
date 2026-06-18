@@ -1,0 +1,9 @@
+# Laufzeit-Artefakte (werden beim Dreh erzeugt)
+__pycache__/
+*.pyc
+transkript_v2_*.md
+stats_v2_*.json
+traits_v2_*.json
+titles.json
+*.log
+godfather.txt
